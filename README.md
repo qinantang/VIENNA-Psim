@@ -1,2 +1,2 @@
-# VIENNABangi0-Psim
-VIENNA电路虚拟零序解耦滞环控制Psim仿真
+# VIENNA-Psim
+VIENNA电路控制算法Psim仿真
